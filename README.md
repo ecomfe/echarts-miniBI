@@ -1,2 +1,3 @@
 # echarts-miniBI
-mini BI
+
+mini BI for [Apache ECharts (incubating)](https://github.com/apache/incubator-echarts)
